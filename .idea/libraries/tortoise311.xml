@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="tortoise311" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tortoise311/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tortoise311/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tortoise311/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/tortoise311/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/tortoise311/lib" />
+      <root url="file://$PROJECT_DIR$/deps/tortoise311/lib" />
+      <root url="file://$PROJECT_DIR$/deps/tortoise311/lib" />
+    </SOURCES>
+  </library>
+</component>

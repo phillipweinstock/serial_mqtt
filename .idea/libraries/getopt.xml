@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="getopt" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/getopt/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+      <root url="file://$PROJECT_DIR$/deps/getopt/src" />
+    </SOURCES>
+  </library>
+</component>

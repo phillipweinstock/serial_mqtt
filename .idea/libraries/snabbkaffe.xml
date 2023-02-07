@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="snabbkaffe" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/snabbkaffe/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/snabbkaffe/src" />
+      <root url="file://$PROJECT_DIR$/deps/snabbkaffe/src" />
+      <root url="file://$PROJECT_DIR$/deps/snabbkaffe/src" />
+      <root url="file://$PROJECT_DIR$/deps/snabbkaffe/src" />
+      <root url="file://$PROJECT_DIR$/deps/snabbkaffe/src" />
+    </SOURCES>
+  </library>
+</component>

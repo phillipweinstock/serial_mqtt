@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jackalope" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/jackalope/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/jackalope/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/jackalope/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/jackalope/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/jackalope/lib" />
+      <root url="file://$PROJECT_DIR$/deps/jackalope/lib" />
+      <root url="file://$PROJECT_DIR$/deps/jackalope/lib" />
+    </SOURCES>
+  </library>
+</component>

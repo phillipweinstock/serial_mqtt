@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="emqtt" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/emqtt/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+      <root url="file://$PROJECT_DIR$/deps/emqtt/src" />
+    </SOURCES>
+  </library>
+</component>

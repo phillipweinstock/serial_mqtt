@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="mqtt_potion" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/mqtt_potion/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/mqtt_potion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/mqtt_potion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/mqtt_potion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/mqtt_potion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/mqtt_potion/lib" />
+    </SOURCES>
+  </library>
+</component>
